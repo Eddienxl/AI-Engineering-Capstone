@@ -4,3 +4,8 @@
 \[Coding Camp 2026\] Worksheet Captone - CC26-PSU186.pdf
 Checklist Tech Stack - Univ.xlsx
 Project Plan -CC26-PSU186.md
+
+# Python
+.env
+__pycache__/
+*.pyc
